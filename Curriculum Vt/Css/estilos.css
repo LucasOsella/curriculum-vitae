@@ -1,0 +1,56 @@
+body{
+    background-color: lightblue;
+}
+div{
+    background-color: white;
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto
+}
+#i{
+    text-align: right;
+}
+#contacto{
+    color: grey;
+    text-align: left;
+    margin: 5px; 
+    padding: 5px;
+    border: 1px;
+     
+}
+fieldset{
+    margin-bottom: 12px;
+    padding: 5px;
+}
+legend{
+    background-color: rgb(159, 190, 247);
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: lightblue;
+}
+h2{
+    color: grey;
+    font-weight: 12px;
+    text-align: left;
+    margin: 5px; 
+    padding: 5px;
+    border: 1px;
+}
+img{ 
+    margin-bottom: 12px;
+}
+#form1{
+    display: none;    
+}
+#hab1{
+    display: none;
+}
+#exp{
+    display: none;
+}

@@ -1,0 +1,9 @@
+document.getElementById("formacion").addEventListener("click",function(){
+    document.getElementById("form1").style.display='block';
+});
+document.getElementById("Habilidades").addEventListener("click",function(){
+    document.getElementById("hab1").style.display='block';
+});
+document.getElementById("Experiencias").addEventListener("click",function(){
+    document.getElementById("exp").style.display='block';
+});
